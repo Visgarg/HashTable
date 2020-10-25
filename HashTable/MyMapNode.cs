@@ -151,7 +151,7 @@ namespace HashTable
                     {
                         //
                         //string res = element.ToString();
-                          Console.WriteLine(keyvalue.Key + " " + keyvalue.Value);
+                          Console.WriteLine(keyvalue.Key + "\t" + keyvalue.Value);
                     }
             }
         }
